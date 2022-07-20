@@ -1,6 +1,2 @@
 ihi
-<<<<<<< HEAD
 Hello1
-=======
-Hello World
->>>>>>> branch2
